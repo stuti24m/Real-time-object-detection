@@ -12,7 +12,8 @@
     - import time
     - import cv2
     
-#### _________________________________________________________________________________________________________________________________________________    
+    
+#### __________________________________________________________________________________________________________________________________________________________________________    
     --prototext : The path to the Caffe prototxt file.
     -- model : The path to the pre-trained model.
     -- confidence : The minimum probability threshold to filter weak detections. The default is 20%.
