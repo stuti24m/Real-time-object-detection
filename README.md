@@ -1,7 +1,7 @@
 # Real-time-object-detection
 Real-time object detection with deep learning and openCV. To build our deep learning-based real-time object detector with OpenCV we will require 
-        1) access our webcam/video stream in an efficient manner and 
-        2) apply object detection to each frame.
+                1) access our webcam/video stream in an efficient manner and 
+                2) apply object detection to each frame.
 
 ## ✔Import Libraries --
     - from imutils.video import VideoStream
