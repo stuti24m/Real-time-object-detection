@@ -25,5 +25,3 @@ Real-time object detection with deep learning and openCV. To build our deep lear
     [INFO] elapsed time: 55.07
     [INFO] approx. FPS: 6.54
     
-## 😄Acknowledgement --
-https://www.pyimagesearch.com/ tutorials and Adrian Rosebrock personal blogs.
