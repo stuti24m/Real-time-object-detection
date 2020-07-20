@@ -11,3 +11,18 @@ Real-time object detection with deep learning and openCV. To build our deep lear
     - import imutils
     - import time
     - import cv2
+    
+  --prototext : The path to the Caffe prototxt file.
+  -- model : The path to the pre-trained model.
+  -- confidence : The minimum probability threshold to filter weak detections. The default is 20%.
+  
+#### For the example code + pre-trained Convolutional Neural Network --
+    $ python real_time_object_detection.py \
+      --prototxt MobileNetSSD_deploy.prototxt.txt \
+      --model MobileNetSSD_deploy.caffemodel
+    [INFO] loading model...
+    [INFO] starting video stream...
+    [INFO] elapsed time: 55.07
+    [INFO] approx. FPS: 6.54
+    
+## Acknowledgement --
