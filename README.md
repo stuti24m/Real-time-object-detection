@@ -18,7 +18,7 @@
     -- model : The path to the pre-trained model.
     -- confidence : The minimum probability threshold to filter weak detections. The default is 20%.
   
-#### For the example code + pre-trained Convolutional Neural Network --
+#### For the example code + pre-trained (caffe model) Convolutional Neural Network --
     $ python real_time_object_detection.py \
       --prototxt MobileNetSSD_deploy.prototxt.txt \
       --model MobileNetSSD_deploy.caffemodel
