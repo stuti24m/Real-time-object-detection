@@ -28,5 +28,6 @@
     [INFO] approx. FPS: 6.54
     
 follow the above steps to see realtime object detection.
+- To run the program in Jupyter notebook, comment the argparse segment and you dont have to run it everytime like in terminal. This works fine with Jupyter notebook.
 
 cheerio 🙋🏻‍♀️
